@@ -7,7 +7,7 @@ these are the main points i have learned and applied:
   
   -Using.Sharing and Outputing Data
   
-  -Handling Usier Events
+  -Handling User Events
   
   -Building Interactive UIs with State
   
